@@ -175,5 +175,8 @@ cython_debug/
 
 
 # Project Specific
-/data
+/data/raw
+/data/pre_processed
+/data/*.sql
+/data/*.json
 .DS_Store
